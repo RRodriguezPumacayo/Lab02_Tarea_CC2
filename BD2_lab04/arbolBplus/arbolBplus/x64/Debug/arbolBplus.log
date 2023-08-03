@@ -1,0 +1,5 @@
+﻿  arbolBplus.cpp
+E:\UNSA_2023\BaseDatos2\BD2_lab04\arbolBplus\arbolBplus\arbolBplus.cpp(96,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\UNSA_2023\BaseDatos2\BD2_lab04\arbolBplus\arbolBplus\arbolBplus.cpp(114,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\UNSA_2023\BaseDatos2\BD2_lab04\arbolBplus\arbolBplus\arbolBplus.cpp(145,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  arbolBplus.vcxproj -> E:\UNSA_2023\BaseDatos2\BD2_lab04\arbolBplus\x64\Debug\arbolBplus.exe
